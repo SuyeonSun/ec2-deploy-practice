@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "dev":"quasar dev",
-    "build": "npm run build"
+    "build": "quasar build"
   },
   "dependencies": {
     "axios": "^0.21.1",
